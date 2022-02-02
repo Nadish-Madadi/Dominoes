@@ -1,0 +1,8 @@
+nad wins: 0
+rad wins: 1
+Games played: 1
+Games left: 2
+nad final deck for game 1: ['7|7', '12|4']
+rad final deck for game 1: []
+Player 1 name: nad
+Player 2 name: rad
