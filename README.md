@@ -1,2 +1,2 @@
 # Dominoes
-A python terminal game to play dominoes with 2 players
+A two player, console based, dominoes game made in Python
